@@ -1,7 +1,7 @@
 <h1 align="left">Hi people, I'm Felipi Matias👋</h1>
 
-- 🔥  I’m a developer programmer in development;
-- 🌱 I’m currently learning Javascript, NODE.js, HTML, Banco de dados, GIT...;
+- 🔥  I’m a full stack programmer;
+- 🌱 I’m currently work with React Native, RoR and React;
 - 💬 Ask me about anything :);
 - 📫 How to reach me: @felipimats in instagram;
 
